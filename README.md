@@ -1,2 +1,2 @@
-# brownadnrewcourse.github.io
+# Багай Никита
 Мой первый сайт
